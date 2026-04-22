@@ -6,6 +6,8 @@ A central index for my analytics case studies and selected writing, covering bus
 
 ## Signature Work
 
+These projects best represent my current analytics portfolio across SQL, Python, and Power BI.
+
 ### [When Traffic Volume Hides Conversion Quality](https://github.com/joonhanofficial/sql-acquisition-funnel-analysis)
 A SQL-based funnel analysis showing why traffic volume alone can hide the true quality of acquisition performance.
 
@@ -50,8 +52,8 @@ A behavioral growth analysis comparing how product design and distribution mecha
 
 ## Selected Writing
 
-### Analytics Writing and Commentary
-This section will be added once the writing repository is created.
+**Writing repository in development.**  
+This section will be updated once the repository is created.
 
 ---
 
