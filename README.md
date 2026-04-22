@@ -1,6 +1,6 @@
 # Joon Han | Analytics Portfolio
 
-A central index for my analytics case studies and selected writing, covering business-focused analysis and the evolving role of AI in modern analytical work.
+A central index for my analytics case studies and writing, focused on business analysis and the evolving role of AI in analytical work.
 
 ---
 
@@ -43,17 +43,17 @@ Python case study focused on segmentation-led activation diagnosis and deeper pe
 
 ---
 
-## Other / Strategy Analysis
+## Strategy / Behavioral Analysis
 
 ### [Behavioral Audit: Spotify Wrapped vs Apple Replay](https://github.com/joonhanofficial/spotify-wrapped-vs-apple-replay-behavioral-growth-audit)
 A behavioral growth analysis comparing how product design and distribution mechanics shape user sharing and platform visibility.
 
 ---
 
-## Selected Writing
+## Writing
 
-**Writing repository in development.**  
-This section will be updated once the repository is created.
+### [Analytics Writing and Commentary](https://github.com/joonhanofficial/analytics-writing-and-commentary)
+A curated writing repository covering analytics workflow, business interpretation, dashboard thinking, and how AI is changing analytical work.
 
 ---
 
